@@ -6,3 +6,5 @@
 
 
 npm install
+
+webpack -it is a module bundler
